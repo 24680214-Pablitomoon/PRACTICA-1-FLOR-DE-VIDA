@@ -118,7 +118,7 @@ Todos ubicados en el plano XY
 Geometría generada automáticamente mediante cálculos trigonométricos
 La figura mostrará un patrón simétrico y armónico.
 
-## 📌 Código Completo Final:
+## Código Completo Final:
 ```Python 
 import bpy
 import math
